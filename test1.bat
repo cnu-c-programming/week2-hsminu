@@ -51,5 +51,5 @@ for %%f in (4-1 4-3) do (
         echo %%f: COMPILE FAIL
     )
 )
-
+pause
 endlocal
