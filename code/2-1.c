@@ -6,7 +6,7 @@ int main()
     printf("short: %u\n", sizeof(short));
     printf("int: %u\n", sizeof(int));
     printf("unsinged int: %u\n", sizeof(unsigned int));
-    printf("long: %u\n", 8);
+    printf("long: %u\n", sizeof(long));
     printf("long long: %u\n", sizeof(long long));
     printf("float: %u\n", sizeof(float));
 
